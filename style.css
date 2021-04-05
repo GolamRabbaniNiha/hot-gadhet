@@ -1,0 +1,57 @@
+
+.bg-orange {
+    background-color: orange !important;
+}
+.buy-now-button{
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+#para{
+    color: orange;
+    float:right;
+}
+.container{
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.card-body{
+ text-align: center;
+}
+.hyphen p {
+    margin-left: 505px;
+    background-color: orange;
+    height: 7px;
+    width: 100px;
+    border-radius: 5px;
+}
+.hyphen h3 {
+    text-align: center;
+    padding-top: 50px;
+}
+.card-margin {
+    margin-bottom: 40px;
+    align-items: center;
+    height: 260px;
+    box-shadow: 5px 10px 50px #ddd;
+}
+.card-margin img {
+    max-width: 125px;
+    margin-top: 60px;
+}
+.card-mar {
+    margin-top: 120px;
+}
+.pale-pic {
+    width: 585px;
+    height: 485px;
+    margin-bottom: 65px;
+}
